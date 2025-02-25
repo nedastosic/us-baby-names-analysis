@@ -27,6 +27,8 @@ This project is designed to:
 
 The dataset used in this project is available on [Kaggle](https://www.kaggle.com/datasets/kaggle/us-baby-names/data).
 
+Download the files and add them to the project. The CSV files should be placed in the 'data' folder and named 'NationalNames.csv' and 'StateNames.csv'.
+
 ## Project Structure
 
 - **data_exploration_charts.py**
